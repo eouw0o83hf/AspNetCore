@@ -10,7 +10,7 @@
     <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
     <!-- Other projects should not reference this assembly. It is only meaning to be used in Visual Studio. -->
     <IsProjectReferenceProvider>false</IsProjectReferenceProvider>
-    <IsShippingPackage>true</IsShippingPackage>
+    <IsShippingPackage>false</IsShippingPackage>
     <IsPackable>false</IsPackable>
     <EnableSourceLink>false</EnableSourceLink>
     <GenerateSourceLinkFile>false</GenerateSourceLinkFile>
